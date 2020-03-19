@@ -12,3 +12,5 @@ subtitle: The list is short because it is short.
 #### 1: [Spherical Geometry and the Least Symmetric Triangle](https://aaronshukert.github.io/LeastSymmetricTriangle.pdf)
 **Abstract**: We study the problem of determining the least symmetric triangle, which arises both from pure geometry and from the study of molecular chirality in chemistry. Using the correspondence between planar n-gons and points in the Grassmannian of 2-planes in real n-space introduced by Hausmann and Knutson, this corresponds to finding the point in the fundamental domain of the hyperoctahedral group action on the Grassmannian which is furthest from the boundary, which we compute exactly. We also determine the least symmetric obtuse and acute triangles. These calculations provide prototypes for computations on polygon and shape spaces.
 $\mathbb{R}$
+
+h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
