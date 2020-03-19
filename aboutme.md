@@ -13,4 +13,4 @@ My research interests primarily consist of the following:
 
 - [Dynamical Systems](https://en.wikipedia.org/wiki/Dynamical_system) and [Ergodic Theory](https://en.wikipedia.org/wiki/Ergodic_theory)
 - [Complex Analysis](https://en.wikipedia.org/wiki/Complex_analysis)
-- [Topology] (https://en.wikipedia.org/wiki/Topology)
+- [Topology](https://en.wikipedia.org/wiki/Topology)
