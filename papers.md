@@ -14,4 +14,4 @@ subtitle: The list is short because it is short.
 $\mathbb{R}$
 
 h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
-{{math|{{mathbb|R}}, {{sym|R}}|&}}
+<math> \mathbb{R}^2</math>
