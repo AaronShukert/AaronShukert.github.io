@@ -5,10 +5,10 @@ subtitle: The list is short because it is short.
 ---
 
 
-## 2: [Hyperbolic Mandelbrot and Julia Sets](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29)
+### 2: [Hyperbolic Mandelbrot and Julia Sets](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29)
 
 
-## 1: [Spherical Geometry and the Least Symmetric Triangle](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29)
+#### 1: [Spherical Geometry and the Least Symmetric Triangle](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29)
 
 
 ### my history
