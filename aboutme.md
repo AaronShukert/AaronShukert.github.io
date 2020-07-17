@@ -4,7 +4,7 @@ title: About me
 subtitle: Just so you know
 ---
 
-I finished my Bachelor's of Science in Applied Mathematics at Colorado State University in 2019. Since then, I have worked as a software engineer and dabbled in a few coding projects (including making this website). I intend to enroll as a mathematics PhD student in the fall of 2020. 
+I finished my Bachelor's of Science in Applied Mathematics at Colorado State University in 2019. Since then, I have worked as a software engineer and dabbled in a few coding projects (including making this website). Currently I am a mathematics PhD student at Michigan State University.
 
 
 ### Interests
