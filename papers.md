@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Publications
-subtitle: The list is short because it is short.
 ---
 
 
